@@ -1,32 +1,32 @@
-// {
-//     "cars": [
-//         {
-//             "id": 1,
-//             "name":"Toyota Avalon",
-//             "price":" Ksh. 5.2M",
-//             "information":"these is the csysus sisisis ssksksk jsjsksks jsjs",
-//             "image":"https://images.hgmsites.net/lrg/toyota-avalon_100803909_l.jpg"
-//         },
-//         {
-//             "id": 2,
-//             "name":"Toyota Corolla",
-//             "price":"Ksh. 4.3M",
-//             "information":"these is the csysus sisisis ssksksk jsjsksks jsjs",
-//             "image":"https://topcar.co.ke/wp-content/uploads/2020/06/Toyota-Corolla-Altis.jpg"
-//         },
-//         {
-//             "id": 3,
-//             "name":"Toyota 86",
-//             "price":" Ksh. 16M",
-//             "information":"these is the csysus sisisis ssksksk jsjsksks jsjs",
-//             "image":"https://www.motortrend.com/uploads/sites/5/2021/08/2022-Toyota-GR-86-2.jpg"
-//         },
-//         {
-//             "id": 4,
-//             "name":"Toyota Sienna",
-//             "price":" Ksh. 2.4M",
-//             "information":"these is the csysus sisisis ssksksk jsjsksks jsjs",
-//             "image":"https://media.ed.edmunds-media.com/toyota/sienna/2023/hero/2023_toyota_sienna_prf_hero_51822001_1600.jpg"
-//         }
-//     ]
-// }
+{
+    "cars": [
+        {
+            "id": 1,
+            "name":"Toyota Avalon",
+            "price":" Ksh. 5.2M",
+            "information":"these is the csysus sisisis ssksksk jsjsksks jsjs",
+            "image":"https://images.hgmsites.net/lrg/toyota-avalon_100803909_l.jpg"
+        },
+        {
+            "id": 2,
+            "name":"Toyota Corolla",
+            "price":"Ksh. 4.3M",
+            "information":"these is the csysus sisisis ssksksk jsjsksks jsjs",
+            "image":"https://topcar.co.ke/wp-content/uploads/2020/06/Toyota-Corolla-Altis.jpg"
+        },
+        {
+            "id": 3,
+            "name":"Toyota 86",
+            "price":" Ksh. 16M",
+            "information":"these is the csysus sisisis ssksksk jsjsksks jsjs",
+            "image":"https://www.motortrend.com/uploads/sites/5/2021/08/2022-Toyota-GR-86-2.jpg"
+        },
+        {
+            "id": 4,
+            "name":"Toyota Sienna",
+            "price":" Ksh. 2.4M",
+            "information":"these is the csysus sisisis ssksksk jsjsksks jsjs",
+            "image":"https://media.ed.edmunds-media.com/toyota/sienna/2023/hero/2023_toyota_sienna_prf_hero_51822001_1600.jpg"
+        }
+    ]
+}
