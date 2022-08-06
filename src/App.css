@@ -2,6 +2,8 @@
 
 .NavBar{
   position: relative;
+  background-color: yellowgreen;
+
 }
 .NavBar ul li{
   display: inline-block;
@@ -22,4 +24,9 @@
     height: 60px;
     margin: 10px;
     font-size: 25px;
+  }
+  .container{
+    display: flex;
+    background-color: aqua;
+    
   }
