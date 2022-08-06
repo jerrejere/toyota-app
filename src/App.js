@@ -11,11 +11,7 @@ import About from './About';
 
 
 function App(){
-
-
   return (
-
-
 <div>  
     <main>
     <Nav />
@@ -31,11 +27,7 @@ function App(){
     
     <Route exact path= "/review" element= {<Review/>} />
 
-    </Routes>
-
-  
-    
- 
+    </Routes> 
    </main>
    </div>
   );
