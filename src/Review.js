@@ -1,24 +1,24 @@
-// import React from 'react';
-// import "./App.css";
+import React from 'react';
+import "./App.css";
 
-// function Review(){
-//     return(
-//         <div className="jerry">
-//             <h1> REVIEW SECTION</h1>
+function Review(){
+    return(
+        <div className="jerry">
+            <h1> REVIEW SECTION</h1>
 
-//             <div className="johns">
-//                 <label>Car Name</label>
-//                 <input type="text" name="carname" />
-//                 <label>Review</label>
-//                 <input type="text" name="review" />
+            <div className="johns">
+                <label>Car Name</label>
+                <input type="text" name="carname" />
+                <label>Review</label>
+                <input type="text" name="review" />
                 
 
-//                 <button>Submit</button>
+                <button>Submit</button>
 
-//             </div>
-//         </div>
-//     )
-// }
+            </div>
+        </div>
+    )
+}
 
 
-// export default Review
+export default Review
