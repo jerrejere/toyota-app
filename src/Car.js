@@ -37,7 +37,7 @@ export default function Car(){
     return(
      <div class="col-md-3">
                <div class="card p-2">
-                   <div class="text-right"> <small>{element.id}. Carname  : {element.name}</small> </div>
+                   <div class="text-right"> <small>{element.id}. Carname : {element.name}</small> </div>
                    <div class="text-right"> <small>{element.information}. </small> </div>
                    <div class="text-center mt-2 p-3"> <img src={element.image}  width="flex" height="300"/> <span class="d-block font-weight-bold">{element.price}</span>
                        <hr/>

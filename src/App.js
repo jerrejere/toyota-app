@@ -8,6 +8,7 @@ import Review from './Review';
 import About from './About';
 // import Home from './Home'; 
 // import React,{useEffect, useState} from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function App(){
